@@ -174,7 +174,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
 //    WidgetTree.getCommonItemByPath([15, 17], Application.widgetTree);
     return new MaterialApp(
-      title: 'titles',
+      title: '大杂烩',
       theme: new ThemeData(
         primaryColor: Color(this.themeColor),
         backgroundColor: Color(0xFFEFEFEF),
