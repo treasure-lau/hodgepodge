@@ -54,7 +54,7 @@ android {
 
         manifestPlaceholders = [
                 JPUSH_PKGNAME : "github.treasure.hodgepodge",
-                JPUSH_APPKEY : "62eb07d227d1f11dd7fa6239", //JPush上注册的包名对应的appkey.
+                JPUSH_APPKEY : "607bc5d84edca558c4c1e11b", //JPush上注册的包名对应的appkey.
                 JPUSH_CHANNEL : "developer-default",
         ]
 

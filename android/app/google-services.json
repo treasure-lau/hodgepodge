@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "611157827052",
-    "firebase_url": "https://alibaba-flutter-go.firebaseio.com",
-    "project_id": "alibaba-flutter-go",
-    "storage_bucket": "alibaba-flutter-go.appspot.com"
+    "project_number": "75137238494",
+    "firebase_url": "https://hodgepodge-e6e43.firebaseio.com",
+    "project_id": "hodgepodge-e6e43",
+    "storage_bucket": "hodgepodge-e6e43.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:611157827052:android:c6129e5eff2f125d",
+        "mobilesdk_app_id": "1:75137238494:android:09449d2bdd11052bc3894f",
         "android_client_info": {
           "package_name": "github.treasure.hodgepodge"
         }
       },
       "oauth_client": [
         {
-          "client_id": "611157827052-iiuevj8qu56alpqh47v37j9sd4e40di7.apps.googleusercontent.com",
+          "client_id": "75137238494-me9ugfsom5esdf4cr2n94t1m62unh7dj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA9chxDIuds7gmPQTJPpDpoXyN9rDTdvhU"
+          "current_key": "AIzaSyAdkN_62SdOO-Dil1hXkqkZIQr39nxhW_Q"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "611157827052-iiuevj8qu56alpqh47v37j9sd4e40di7.apps.googleusercontent.com",
+              "client_id": "75137238494-me9ugfsom5esdf4cr2n94t1m62unh7dj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
