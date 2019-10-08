@@ -14,8 +14,8 @@
 
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="hodgepodge"
-        android:icon="@mipmap/ic_launcher_logo"
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">
         <activity
             android:name=".MainActivity"
